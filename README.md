@@ -10,3 +10,6 @@ The yred board is based on the esp12E devboard, it is compatible with the NodeMC
 ## Software features
 Yred Minikame is coming with basic software features. When powered up, a wifi Access point get created that enable you to directly connect to the robot with your favorites device, and execute some preloaded moves. you can find details here: https://github.com/YRedgit/Minikame/wiki
 in the getting started sections.
+
+## Mechanical features
+This robot keep is legacy shape from initial design. it is a quadruped that has 2 DOF on each of his leg, that is to say there is 8 joint to control in order to create original moves. Each joint is using a MG90s servo motor that you can easily get at many market place on the internet. it have been originally developped using 3d printer. but if you decide to order it from ("link") you will get molded plastic parts. 
