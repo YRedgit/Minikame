@@ -1,4 +1,4 @@
-# Yred Minikame
+# YRed Minikame
 Yred Minikame is a forked project from initial Minikame designed by Javier I.H. ("links").
 It is intended to be accessible for those who don't own needed tools (3d printer, pcb, soldering) to duplicate this robot.
 It is easy to use/programme through a common micro usb cable using arduino IDE.
